@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Ejercios_Eric\FCN_Repaso\FCN_Repaso\FCN_Repaso\bin\Debug\netstandard2.0\FCN_Repaso.deps.json
+C:\Users\hp\Desktop\Ejercios_Eric\FCN_Repaso\FCN_Repaso\FCN_Repaso\bin\Debug\netstandard2.0\FCN_Repaso.dll
+C:\Users\hp\Desktop\Ejercios_Eric\FCN_Repaso\FCN_Repaso\FCN_Repaso\bin\Debug\netstandard2.0\ref\FCN_Repaso.dll
+C:\Users\hp\Desktop\Ejercios_Eric\FCN_Repaso\FCN_Repaso\FCN_Repaso\bin\Debug\netstandard2.0\FCN_Repaso.pdb
+C:\Users\hp\Desktop\Ejercios_Eric\FCN_Repaso\FCN_Repaso\FCN_Repaso\obj\Debug\netstandard2.0\FCN_Repaso.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Ejercios_Eric\FCN_Repaso\FCN_Repaso\FCN_Repaso\obj\Debug\netstandard2.0\FCN_Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Ejercios_Eric\FCN_Repaso\FCN_Repaso\FCN_Repaso\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\Desktop\Ejercios_Eric\FCN_Repaso\FCN_Repaso\FCN_Repaso\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hp\Desktop\Ejercios_Eric\FCN_Repaso\FCN_Repaso\FCN_Repaso\obj\Debug\netstandard2.0\FCN_Repaso.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Ejercios_Eric\FCN_Repaso\FCN_Repaso\FCN_Repaso\obj\Debug\netstandard2.0\FCN_Repaso.AssemblyInfo.cs
+C:\Users\hp\Desktop\Ejercios_Eric\FCN_Repaso\FCN_Repaso\FCN_Repaso\obj\Debug\netstandard2.0\FCN_Repaso.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Ejercios_Eric\FCN_Repaso\FCN_Repaso\FCN_Repaso\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hp\Desktop\Ejercios_Eric\FCN_Repaso\FCN_Repaso\FCN_Repaso\obj\Debug\netstandard2.0\FCN_Repaso.dll
+C:\Users\hp\Desktop\Ejercios_Eric\FCN_Repaso\FCN_Repaso\FCN_Repaso\obj\Debug\netstandard2.0\refint\FCN_Repaso.dll
+C:\Users\hp\Desktop\Ejercios_Eric\FCN_Repaso\FCN_Repaso\FCN_Repaso\obj\Debug\netstandard2.0\FCN_Repaso.pdb

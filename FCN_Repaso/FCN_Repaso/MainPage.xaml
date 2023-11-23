@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FCN_Repaso.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Calcular tu FCN" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Latidos"></Label>
+        <Entry Placeholder="Introduce los latidos" Keyboard="Numeric" x:Name="Latidos" ></Entry>
+        <Button Text="Calcular" Clicked="Clicked_Buttom"></Button>
+        <Image Source="comprobar.png" HeightRequest="180" x:Name="imgcomprobar" IsVisible="false" />
+        <Image Source="crisis.png" HeightRequest="180" x:Name="imgcrisis" IsVisible="false" />
+
+    </StackLayout>
+
+</ContentPage>
